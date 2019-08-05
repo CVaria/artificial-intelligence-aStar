@@ -1,0 +1,264 @@
+Robot 1 considering new position<2, 8> at step 0
+Robot 1 considering new position<1, 7> at step 0
+Robot 1 considering new position<1, 9> at step 0
+
+Robot 2 considering new position<7, 8> at step 0
+Robot 2 considering new position<9, 8> at step 0
+Robot 2 considering new position<8, 7> at step 0
+Robot 2 considering new position<8, 9> at step 0
+Robot 2 considering new position<6, 8> at step 1
+Robot 2 considering new position<8, 8> at step 1
+Robot 2 considering new position<7, 7> at step 1
+Robot 2 considering new position<7, 9> at step 1
+Robot 2 considering new position<5, 8> at step 2
+Robot 2 considering new position<7, 8> at step 2
+Robot 2 considering new position<6, 7> at step 2
+Robot 2 considering new position<6, 9> at step 2
+Robot 2 considering new position<4, 8> at step 3
+Robot 2 considering new position<6, 8> at step 3
+Robot 2 considering new position<5, 7> at step 3
+Robot 2 considering new position<5, 9> at step 3
+Robot 2 considering new position<3, 8> at step 4
+Robot 2 considering new position<5, 8> at step 4
+Robot 2 considering new position<4, 7> at step 4
+Robot 2 considering new position<4, 9> at step 4
+Robot 2 considering new position<2, 8> at step 5
+Robot 2 considering new position<4, 8> at step 5
+Robot 2 considering new position<3, 7> at step 5
+Robot 2 considering new position<3, 9> at step 5
+
+Robot 1 considering new position<2, 8> at step 0
+Robot 1 considering new position<1, 7> at step 0
+Robot 1 considering new position<1, 9> at step 0
+
+Robot 1 considering new position<1, 8> at step 1
+Robot 1 considering new position<3, 8> at step 1
+Robot 1 considering new position<2, 7> at step 1
+Robot 1 considering new position<2, 9> at step 1
+Robot 1 considering new position<2, 8> at step 2
+Robot 1 considering new position<4, 8> at step 2
+Robot 1 considering new position<3, 7> at step 2
+Robot 1 considering new position<3, 9> at step 2
+
+Robot 1 considering new position<3, 8> at step 3
+Robot 1 considering new position<5, 8> at step 3
+Robot 1 considering new position<4, 7> at step 3
+Robot 1 considering new position<4, 9> at step 3
+Robot 1 considering new position<4, 8> at step 4
+Robot 1 considering new position<6, 8> at step 4
+Robot 1 considering new position<5, 7> at step 4
+Robot 1 considering new position<5, 9> at step 4
+Robot 1 considering new position<4, 7> at step 5
+Robot 1 considering new position<6, 7> at step 5
+Robot 1 considering new position<5, 6> at step 5
+Robot 1 considering new position<5, 8> at step 5
+Robot 1 considering new position<4, 6> at step 6
+Robot 1 considering new position<6, 6> at step 6
+Robot 1 considering new position<5, 5> at step 6
+Robot 1 considering new position<5, 7> at step 6
+Robot 1 considering new position<4, 5> at step 7
+Robot 1 considering new position<6, 5> at step 7
+Robot 1 considering new position<5, 4> at step 7
+Robot 1 considering new position<5, 6> at step 7
+Robot 1 considering new position<4, 4> at step 8
+Robot 1 considering new position<6, 4> at step 8
+Robot 1 considering new position<5, 3> at step 8
+Robot 1 considering new position<5, 5> at step 8
+Robot 1 considering new position<4, 3> at step 9
+Robot 1 considering new position<6, 3> at step 9
+Robot 1 considering new position<5, 2> at step 9
+Robot 1 considering new position<5, 4> at step 9
+Robot 1 considering new position<4, 2> at step 10
+Robot 1 considering new position<6, 2> at step 10
+Robot 1 considering new position<5, 1> at step 10
+Robot 1 considering new position<5, 3> at step 10
+
+Robot 2 considering new position<7, 8> at step 0
+Robot 2 considering new position<9, 8> at step 0
+Robot 2 considering new position<8, 7> at step 0
+Robot 2 considering new position<8, 9> at step 0
+Robot 2 considering new position<6, 8> at step 1
+Robot 2 considering new position<8, 8> at step 1
+Robot 2 considering new position<7, 7> at step 1
+Robot 2 considering new position<7, 9> at step 1
+Robot 2 considering new position<5, 8> at step 2
+Robot 2 considering new position<7, 8> at step 2
+Robot 2 considering new position<6, 7> at step 2
+Robot 2 considering new position<6, 9> at step 2
+Robot 2 considering new position<4, 8> at step 3**Confict**
+ Resolving -- Robot 2 considering alternative new position<7, 8> at step 2
+Robot 2 considering new position<9, 8> at step 2
+Robot 2 considering new position<8, 7> at step 2
+Robot 2 considering new position<8, 9> at step 2
+Robot 2 considering new position<5, 8> at step 4
+Robot 2 considering new position<7, 8> at step 4
+Robot 2 considering new position<6, 7> at step 4
+Robot 2 considering new position<6, 9> at step 4
+Robot 2 considering new position<4, 7> at step 4
+Robot 2 considering new position<6, 7> at step 4
+Robot 2 considering new position<5, 6> at step 4
+Robot 2 considering new position<5, 8> at step 4**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 8> at step 5
+Robot 2 considering new position<6, 8> at step 5
+Robot 2 considering new position<5, 7> at step 5
+Robot 2 considering new position<5, 9> at step 5
+Robot 2 considering new position<3, 8> at step 6
+Robot 2 considering new position<5, 8> at step 6
+Robot 2 considering new position<4, 7> at step 6
+Robot 2 considering new position<4, 9> at step 6
+Robot 2 considering new position<2, 8> at step 7
+Robot 2 considering new position<4, 8> at step 7
+Robot 2 considering new position<3, 7> at step 7
+Robot 2 considering new position<3, 9> at step 7
+
+Robot 2 considering new position<1, 8> at step 8
+Robot 2 considering new position<3, 8> at step 8
+Robot 2 considering new position<2, 7> at step 8
+Robot 2 considering new position<2, 9> at step 8
+Robot 2 considering new position<2, 8> at step 9
+Robot 2 considering new position<4, 8> at step 9
+Robot 2 considering new position<3, 7> at step 9
+Robot 2 considering new position<3, 9> at step 9
+
+Robot 2 considering new position<3, 8> at step 10
+Robot 2 considering new position<5, 8> at step 10
+Robot 2 considering new position<4, 7> at step 10
+Robot 2 considering new position<4, 9> at step 10
+Robot 2 considering new position<4, 8> at step 11
+Robot 2 considering new position<6, 8> at step 11
+Robot 2 considering new position<5, 7> at step 11
+Robot 2 considering new position<5, 9> at step 11
+Robot 2 considering new position<4, 7> at step 12
+Robot 2 considering new position<6, 7> at step 12
+Robot 2 considering new position<5, 6> at step 12
+Robot 2 considering new position<5, 8> at step 12
+Robot 2 considering new position<4, 6> at step 13
+Robot 2 considering new position<6, 6> at step 13
+Robot 2 considering new position<5, 5> at step 13
+Robot 2 considering new position<5, 7> at step 13
+Robot 2 considering new position<4, 5> at step 14
+Robot 2 considering new position<6, 5> at step 14
+Robot 2 considering new position<5, 4> at step 14
+Robot 2 considering new position<5, 6> at step 14
+Robot 2 considering new position<4, 4> at step 15
+Robot 2 considering new position<6, 4> at step 15
+Robot 2 considering new position<5, 3> at step 15
+Robot 2 considering new position<5, 5> at step 15
+Robot 2 considering new position<4, 3> at step 16
+Robot 2 considering new position<6, 3> at step 16
+Robot 2 considering new position<5, 2> at step 16
+Robot 2 considering new position<5, 4> at step 16
+Robot 2 considering new position<4, 2> at step 17
+Robot 2 considering new position<6, 2> at step 17
+Robot 2 considering new position<5, 1> at step 17
+Robot 2 considering new position<5, 3> at step 17
+
+Robot 1 considering new position<4, 1> at step 1
+Robot 1 considering new position<6, 1> at step 1
+Robot 1 considering new position<5, 2> at step 1
+Robot 1 considering new position<4, 2> at step 2
+Robot 1 considering new position<6, 2> at step 2
+Robot 1 considering new position<5, 1> at step 2
+Robot 1 considering new position<5, 3> at step 2
+Robot 1 considering new position<4, 3> at step 3
+Robot 1 considering new position<6, 3> at step 3
+Robot 1 considering new position<5, 2> at step 3
+Robot 1 considering new position<5, 4> at step 3
+Robot 1 considering new position<4, 4> at step 4
+Robot 1 considering new position<6, 4> at step 4
+Robot 1 considering new position<5, 3> at step 4
+Robot 1 considering new position<5, 5> at step 4
+Robot 1 considering new position<4, 5> at step 5
+Robot 1 considering new position<6, 5> at step 5
+Robot 1 considering new position<5, 4> at step 5
+Robot 1 considering new position<5, 6> at step 5
+Robot 1 considering new position<4, 6> at step 6
+Robot 1 considering new position<6, 6> at step 6
+Robot 1 considering new position<5, 5> at step 6
+Robot 1 considering new position<5, 7> at step 6
+Robot 1 considering new position<4, 7> at step 7
+Robot 1 considering new position<6, 7> at step 7
+Robot 1 considering new position<5, 6> at step 7
+Robot 1 considering new position<5, 8> at step 7
+Robot 1 considering new position<4, 8> at step 8
+Robot 1 considering new position<6, 8> at step 8
+Robot 1 considering new position<5, 7> at step 8
+Robot 1 considering new position<5, 9> at step 8
+Robot 1 considering new position<3, 8> at step 9
+Robot 1 considering new position<5, 8> at step 9
+Robot 1 considering new position<4, 7> at step 9
+Robot 1 considering new position<4, 9> at step 9
+Robot 1 considering new position<2, 8> at step 10
+Robot 1 considering new position<4, 8> at step 10
+Robot 1 considering new position<3, 7> at step 10
+Robot 1 considering new position<3, 9> at step 10
+Robot 1 considering new position<1, 8> at step 11
+Robot 1 considering new position<3, 8> at step 11
+Robot 1 considering new position<2, 7> at step 11
+Robot 1 considering new position<2, 9> at step 11
+
+Robot 2 considering new position<4, 2> at step 1
+Robot 2 considering new position<6, 2> at step 1
+Robot 2 considering new position<5, 1> at step 1**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 3> at step 2
+Robot 2 considering new position<6, 3> at step 2
+Robot 2 considering new position<5, 2> at step 2**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 4> at step 3
+Robot 2 considering new position<6, 4> at step 3
+Robot 2 considering new position<5, 3> at step 3**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 5> at step 4
+Robot 2 considering new position<6, 5> at step 4
+Robot 2 considering new position<5, 4> at step 4**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 6> at step 5
+Robot 2 considering new position<6, 6> at step 5
+Robot 2 considering new position<5, 5> at step 5**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 7> at step 6
+Robot 2 considering new position<6, 7> at step 6
+Robot 2 considering new position<5, 6> at step 6**Confict**
+ Resolving -- Robot 2 considering alternative new position<4, 8> at step 7
+Robot 2 considering new position<6, 8> at step 7
+Robot 2 considering new position<5, 7> at step 7**Confict**
+ Resolving -- Robot 2 considering alternative new position<5, 8> at step 8
+Robot 2 considering new position<7, 8> at step 8
+Robot 2 considering new position<6, 7> at step 8
+Robot 2 considering new position<6, 9> at step 8
+Robot 2 considering new position<5, 8> at step 8
+Robot 2 considering new position<7, 8> at step 8
+Robot 2 considering new position<6, 7> at step 8
+Robot 2 considering new position<6, 9> at step 8
+Robot 2 considering new position<6, 8> at step 9
+Robot 2 considering new position<8, 8> at step 9
+Robot 2 considering new position<7, 7> at step 9
+Robot 2 considering new position<7, 9> at step 9
+
+	-------Final results-------
+Step 0 : Robot 1 x=1 y=8 and Robot 2 x=8 y=8
+Step 1 : Robot 1 x=2 y=8 and Robot 2 x=7 y=8
+Step 2 : Robot 1 x=3 y=8 and Robot 2 x=6 y=8
+Step 3 : Robot 1 x=4 y=8 and Robot 2 x=5 y=8
+Step 4 : Robot 1 x=5 y=8 and Robot 2 x=6 y=8
+Step 5 : Robot 1 x=5 y=7 and Robot 2 x=5 y=8
+Step 6 : Robot 1 x=5 y=6 and Robot 2 x=4 y=8
+Step 7 : Robot 1 x=5 y=5 and Robot 2 x=3 y=8
+Step 8 : Robot 1 x=5 y=4 and Robot 2 x=2 y=8
+Step 9 : Robot 1 x=5 y=3 and Robot 2 x=3 y=8
+Step 10 : Robot 1 x=5 y=2 and Robot 2 x=4 y=8
+Step 11 : Robot 1 x=5 y=1 and Robot 2 x=5 y=8
+Step 12 : Robot 1 x=5 y=1 and Robot 2 x=5 y=7
+Step 13 : Robot 1 x=5 y=1 and Robot 2 x=5 y=6
+Step 14 : Robot 1 x=5 y=1 and Robot 2 x=5 y=5
+Step 15 : Robot 1 x=5 y=1 and Robot 2 x=5 y=4
+Step 16 : Robot 1 x=5 y=1 and Robot 2 x=5 y=3
+Step 17 : Robot 1 x=5 y=1 and Robot 2 x=5 y=2
+Step 18 : Robot 1 x=5 y=2 and Robot 2 x=5 y=3
+Step 19 : Robot 1 x=5 y=3 and Robot 2 x=5 y=4
+Step 20 : Robot 1 x=5 y=4 and Robot 2 x=5 y=5
+Step 21 : Robot 1 x=5 y=5 and Robot 2 x=5 y=6
+Step 22 : Robot 1 x=5 y=6 and Robot 2 x=5 y=7
+Step 23 : Robot 1 x=5 y=7 and Robot 2 x=5 y=8
+Step 24 : Robot 1 x=5 y=8 and Robot 2 x=6 y=8
+Step 25 : Robot 1 x=4 y=8 and Robot 2 x=7 y=8
+Step 26 : Robot 1 x=3 y=8 and Robot 2 x=8 y=8
+Step 27 : Robot 1 x=2 y=8 and Robot 2 x=8 y=8
+Step 28 : Robot 1 x=1 y=8 and Robot 2 x=8 y=8
+Total Nodes created: 89
